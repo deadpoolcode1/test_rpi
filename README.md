@@ -18,4 +18,4 @@ now copy the image files to this directory
 
 then to flash commodore device, connect RPI to device via UAB and send command:
 
-. modular-tools.sh fastboot_update_All
+. modular-tools.sh fastboot_update_all
