@@ -2,7 +2,7 @@
 
 usage: 
 
-sshto RPI (user: pi, password: raspberry)
+ssh to RPI (user: pi, password: raspberry)
 
 cd ~/
 
