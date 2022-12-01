@@ -5,6 +5,7 @@ setup()
 {
 	sudo apt-get install -y vim
 	sudo apt-get install -y android-tools-adb android-tools-fastboot
+	cp adbkey ~/.android/
 }
 
 fastboot_update_all()
